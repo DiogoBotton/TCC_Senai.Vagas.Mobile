@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export default interface Token {\r\n    email: string,\r\n    unique_name: string,\r\n    jti: number,\r\n    role: string,\r\n    iss: string,\r\n    aud: string\r\n}"]},"metadata":{},"sourceType":"module"}
